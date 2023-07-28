@@ -6,7 +6,7 @@ the only reaon to get a Xbox or a PS is to play an exclusive game that never got
 
 ## PC
 
-fedora with X + Wine + Proton patches (track steamdeck support)
+fedora SilverBlue with X + Wine + Proton patches (track steamdeck support)
 
 ## Handheld
 
