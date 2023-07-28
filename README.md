@@ -12,6 +12,8 @@ fedora with X + Wine + Proton patches (track steamdeck support)
 
 Nintendo Switch
 
+https://gbatemp.net/threads/run-x86-apps-on-l4t-switch-with-box86.582933/
+
 ## Cloud / RemotePlay
 
 https://github.com/DevL0rd/SkyNX
