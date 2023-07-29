@@ -16,6 +16,8 @@ https://gbatemp.net/threads/run-x86-apps-on-l4t-switch-with-box86.582933/
 
 run wine on ARM - https://github.com/AndreRH/hangover
 
+Aethersx2 on android on switch
+
 ## Cloud / RemotePlay
 
 https://github.com/DevL0rd/SkyNX
