@@ -2,7 +2,7 @@
 
 ## Console
 
-the only reaon to get a Xbox or a PS is to play an exclusive game that never got a PC port.
+the only reason to get a Xbox or a PS is to play an exclusive game that never got a PC port.
 
 ## PC
 
