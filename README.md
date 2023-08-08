@@ -14,6 +14,8 @@ Nintendo Switch
 
 https://wiki.switchroot.org/en/FAQ
 
+https://github.com/exelix11/SysDVR
+
 ## Cloud / RemotePlay
 
 https://github.com/DevL0rd/SkyNX
