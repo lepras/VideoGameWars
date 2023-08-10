@@ -1,4 +1,6 @@
-# VideoGameWars
+# Video Game Wars
+
+https://github.com/noahc3/SDSetup
 
 ## Console
 
