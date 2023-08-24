@@ -11,10 +11,15 @@ https://web.archive.org/web/20200717072936/https://team-xecuter.com/
 https://github.com/gut5/cfw-writeups/blob/master/cfw-exploit-writeups.md
 
 [PSP](https://www.youtube.com/watch?v=INdUZk4NFIA)
+
 [Xbox](https://www.youtube.com/watch?v=6fOjGLCctEY) 
+
 [360](https://www.youtube.com/watch?v=uxjpmc8ZIxM)
+
 [wii](https://www.youtube.com/watch?v=0rjaiNIc4W8)
+
 [ps3](https://www.youtube.com/watch?v=DUGGJpn2_zY)
+
 [ps4](https://www.youtube.com/watch?v=QMiubC6LdTA)
 
 ## Console
