@@ -2,6 +2,10 @@
 
 https://github.com/noahc3/SDSetup
 
+## Teams
+
+https://web.archive.org/web/20200717072936/https://team-xecuter.com/
+
 ## Homebrew
 
 https://github.com/gut5/cfw-writeups/blob/master/cfw-exploit-writeups.md
