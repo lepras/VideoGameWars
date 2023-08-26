@@ -32,12 +32,16 @@ fedora SilverBlue with X + Wine + Proton patches (track steamdeck support)
 
 ## Handheld
 
-Nintendo Switch
+Switch light
 
 https://wiki.switchroot.org/en/FAQ
 
 https://github.com/exelix11/SysDVR
 
 ## Cloud / RemotePlay
+
+[chiaki - Free and Open Source PlayStation Remote Play Client](https://sr.ht/~thestr4ng3r/chiaki/)
+
+xcloud on android on switch
 
 https://github.com/DevL0rd/SkyNX
