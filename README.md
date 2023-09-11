@@ -2,6 +2,12 @@
 
 https://github.com/noahc3/SDSetup
 
+## Protection
+
+[Manhunt - Hidden Anti-Piracy Measures - Feat. BadgerGoodger | Vadim M](https://www.youtube.com/watch?v=WfDg7BidsY4)
+
+https://reversing.info/posts/guardedregions/
+
 ## Teams
 
 https://web.archive.org/web/20200717072936/https://team-xecuter.com/
