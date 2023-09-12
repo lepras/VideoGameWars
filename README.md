@@ -36,6 +36,8 @@ the only reason to get a ~Xbox~ PS is to play an exclusive game that never got a
 
 fedora SilverBlue with X + Wine + Proton patches (track steamdeck support)
 
+https://www.protondb.com/
+
 ## Handheld
 
 Switch light
