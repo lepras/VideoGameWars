@@ -2,6 +2,8 @@
 
 https://github.com/noahc3/SDSetup
 
+https://github.com/gut5/cfw-writeups/blob/master/cfw-exploit-writeups.md
+
 ## Protection
 
 [Manhunt - Hidden Anti-Piracy Measures - Feat. BadgerGoodger | Vadim M](https://www.youtube.com/watch?v=WfDg7BidsY4)
