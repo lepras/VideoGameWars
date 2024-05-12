@@ -48,6 +48,8 @@ https://wiki.switchroot.org/en/FAQ
 
 https://github.com/exelix11/SysDVR
 
+[DOCK Nintendo Switch Lite on TV with Raspberry Pi (2021 HOW TO) SysDVR](https://www.youtube.com/watch?v=mJ4-HXS2H74)
+
 ## Cloud / RemotePlay
 
 [chiaki - Free and Open Source PlayStation Remote Play Client](https://sr.ht/~thestr4ng3r/chiaki/)
