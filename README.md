@@ -62,4 +62,4 @@ https://github.com/DevL0rd/SkyNX
 
 1. Switch Lite
 2. Steam Deck
-3. Retropi
+3. [Retropi](https://www.youtube.com/watch?v=wSN1L2XyyUY)
