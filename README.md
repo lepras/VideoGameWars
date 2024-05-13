@@ -57,3 +57,9 @@ https://github.com/exelix11/SysDVR
 xcloud on android on switch
 
 https://github.com/DevL0rd/SkyNX
+
+## Contendors
+
+1. Switch Lite
+2. Steam Deck
+3. Retropi
