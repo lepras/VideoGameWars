@@ -61,5 +61,5 @@ https://github.com/DevL0rd/SkyNX
 ## Contendors
 
 1. Switch Lite
-2. Steam Deck
+2. [Steam Deck](https://notebin.de/?48b2025366fd8692#9AbPKa4qNKqR1hkLUKi8LGntrsePCFnZkxNhvdtAxyyg)
 3. [Retropi](https://www.youtube.com/watch?v=wSN1L2XyyUY)
